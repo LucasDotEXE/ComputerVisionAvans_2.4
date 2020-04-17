@@ -1,0 +1,5 @@
+﻿  blobdetectionavans.cpp
+D:\Avans-TI\Jaar-2\Periode-4\CompVision\TestComputerVissio\VisionApplication\blobdetectionavans.cpp(140,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Avans-TI\Jaar-2\Periode-4\CompVision\TestComputerVissio\VisionApplication\blobdetectionavans.cpp(282,40): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+D:\Avans-TI\Jaar-2\Periode-4\CompVision\TestComputerVissio\VisionApplication\blobdetectionavans.cpp(434): warning C4715: 'getEntryNeighbour': not all control paths return a value
+  VisionApplication.vcxproj -> D:\Avans-TI\Jaar-2\Periode-4\CompVision\TestComputerVissio\x64\Debug\VisionApplication.exe
